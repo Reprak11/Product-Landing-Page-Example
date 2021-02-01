@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td>
-  Product landing web page example as an exercise from [FreeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+  Product landing web page example as an exercise from FreeCodeCamp.
 </td>
 </tr>
 </table>
